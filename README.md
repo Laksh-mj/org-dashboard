@@ -3,7 +3,7 @@
 A fully featured, single-file enterprise dashboard built with HTML, CSS and JavaScript.
 
 ## 🔗 Live Demo
-👉 https://github.com/Laksh-mj/org-dashboard
+👉 https://laksh-mj.github.io/org-dashboard/
 
 ## ✨ Features
 - 🏢 Multi-Organization Support
